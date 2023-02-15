@@ -1,4 +1,4 @@
-### 안녕하세요 👋 개발자 전명훈입니다. 😄
+### 안녕하세요! 개발자 전명훈입니다. 😄
 
 <!--
 **mjkorean/mjkorean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
