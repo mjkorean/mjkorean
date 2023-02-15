@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 개발자가 되기 위해 열심히 노력 중입니다!
+- 개발자가 되기 위해 열심히 노력 중 입니다!
