@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 깃헙 첫 화면에서 볼 수 있는 간략한 소개 정리해서 준비
+- 깃헙 첫화면에서 볼수있는 간략한 소개
