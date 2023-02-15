@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 깃헙 첫화면에서 볼수있는 간략한 소개
+- 개발자가 되기 위해 열심히 노력 중입니다!
