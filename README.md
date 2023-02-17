@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 개발자가 되기 위해 열심히 노력 중 입니다!
+- 개발자가 되기위해, 절박한 마음으로 부트캠프에서 공부 중 입니다!
