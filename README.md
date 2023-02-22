@@ -31,3 +31,6 @@ Here are some ideas to get you started:
 ### Languages
 - Korean: Native
 - English: Professional working proficiency
+
+### Etc.
+- Canadian Permanent Residency
