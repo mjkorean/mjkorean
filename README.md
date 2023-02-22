@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - Single Page Applications
 - Responsive Web Design
 - Interactive Web Content
+- General Office Skills
+- Microsoft Office
 - Communication
 
 ### Education
