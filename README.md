@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - Redux.js
 - Single Page Applications
 - Responsive Web Design
+- Interactive Web Content
 - Communication
 
 ### Education
