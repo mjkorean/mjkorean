@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - Fleming College (2019)
   - College Diploma, Resources Drilling Technician
 - Kyonggi University (2014)
-  - Bachelor of Business Administration
+  - Bachelor of Business Administration - BBA, Business Administration
 
 ### Languages
 - Korean: Native
