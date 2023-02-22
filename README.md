@@ -22,3 +22,12 @@ Here are some ideas to get you started:
 - Single Page Applications
 - Responsive Web Design
 - Communication
+
+### Education
+- Encore Academy (2023)
+- Fleming College (2019)
+- Kyonggi University (2014)
+
+### Languages
+- Korean: Native
+- English: Professional working proficiency
