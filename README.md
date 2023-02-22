@@ -24,9 +24,12 @@ Here are some ideas to get you started:
 - Communication
 
 ### Education
-- Encore Academy (2023): Certificate, Information Technology
-- Fleming College (2019): College Diploma, Resources Drilling Technician
-- Kyonggi University (2014): Bachelor of Business Administration
+- Encore Academy (2023)
+  - Certificate, Information Technology
+- Fleming College (2019)
+  - College Diploma, Resources Drilling Technician
+- Kyonggi University (2014)
+  - Bachelor of Business Administration
 
 ### Languages
 - Korean: Native
