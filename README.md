@@ -1,4 +1,4 @@
-### 안녕하세요! 인간 전명훈입니다. 😄
+### 안녕하세요! 웹 개발자 전명훈입니다. 😄
 
 <!--
 **mjkorean/mjkorean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 개발자가 되기위해, 절박한 마음으로 부트캠프에서 공부 중 입니다!
+### - Skills
+- HTML/CSS
+- JavaScript
+- React.js
+- Redux.js
+- Single Page Applications
+- Responsive Web Design
+- Communication
