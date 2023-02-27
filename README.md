@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ### Education
 -  Playdata (2023)
-  - Certificate, Information Technology
+  -  Certificate, Information Technology
 - Fleming College (2019)
   - College Diploma, Resources Drilling Technician
 - Kyonggi University (2014)
