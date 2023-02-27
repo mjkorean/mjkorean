@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - Communication
 
 ### Education
--  (2023)
+-  Playdata (2023)
   - Certificate, Information Technology
 - Fleming College (2019)
   - College Diploma, Resources Drilling Technician
