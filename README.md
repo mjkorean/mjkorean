@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 ### Education
 - Playdata (2023)
   - Certificate, Information Technology
+  - Half-year Coding Bootcamp, Seoul, South Korea
 - Fleming College (2019)
   - College Diploma, Resources Drilling Technician
 - Kyonggi University (2014)
