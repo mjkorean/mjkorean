@@ -14,12 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Skills
+### Languages
 - HTML
 - CSS
 - JavaScript
 - React
 - Redux
+
+### Skills
 - Single Page Applications
 - Responsive Web Design
 - Interactive Web Content
