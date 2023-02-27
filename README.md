@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Languages, Frameworks and Libraries
+### ✨ Languages, Frameworks and Libraries
 - HTML
 - CSS
 - Bootstrap
@@ -22,18 +22,18 @@ Here are some ideas to get you started:
 - Redux
 - Java
 
-### Skills
+### ✨ Skills
 - Web Applications
 - Single Page Applications
 - Responsive Web Design
 - Interactive Web Content
 - Communication
 
-### Languages
+### ✨ Languages
 - Korean: Native
 - English: Professional working proficiency
 
-### Work Exrpirence
+### ✨ Work Exrpirence
 - Assistant Driller (2020 - 2022 / 2 years)
   - Orbit Garant Drilling, Inc., Canada
 - Assistant Driller (2019 - 2020 / 1 years)
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - Human Resources Generalist (2014 - 2016 / 2 years)
   - Samsung Display, Asan, South Korea
 
-### Education
+### ✨ Education
 - Playdata (2023)
   - Certificate, Information Technology
   - Half-year Coding Bootcamp, Seoul, South Korea
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   - Bachelor of Business Administration (Double Major)
   - Suwon, South Korea
 
-### Etc.
+### ✨ Etc.
 - 7 years' experience of English-spoken countries (Australia, Canada)
 - Canadian Permanent Residency
   - Immigration, Refugees and Citizenship Canada
