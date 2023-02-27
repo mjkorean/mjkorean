@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - Assistant Driller
   - Boart Longyear, Canada (2019 - 2020 / 1 years)
 - Human Resources Generalist
-  - Samsung Display (2014 - 2016 / 2 years)
+  - Samsung Display, Asan, South Korea (2014 - 2016 / 2 years)
 
 ### Education
 - Playdata (2023)
