@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 
 ### Work Exrpirence
 - Assistant Driller
-  - Orbit Garant Drilling, Inc. (2020 - 2022 · 2 years)
+  - Orbit Garant Drilling, Inc. (2020 - 2022 / 2 years)
 - Assistant Driller
 - Human Resources Generalist
-  - Samsung Display (2014 - 2016 · 2 years)
+  - Samsung Display (2014 - 2016 / 2 years)
 
 ### Etc.
 - 7 years' experience of English-spoken countries (Australia, Canada)
