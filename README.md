@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ### Languages, Frameworks and Libraries
 - HTML
 - CSS
+- Bootstrap
 - JavaScript
 - React
 - Redux
