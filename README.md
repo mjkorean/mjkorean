@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 - Responsive Web Design
 - Interactive Web Content
 - Communication
-- General Office Skills
-- Microsoft Office
 
 ### Education
 - Playdata (2023)
