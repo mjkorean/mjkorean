@@ -49,7 +49,8 @@ Here are some ideas to get you started:
   - College Diploma, Resources Drilling Technician
   - Lindsay, Canada
 - Kyonggi University (2014)
-  - Bachelor of Business Administration - BBA, Business Administration
+  - Bachelor of Social Welfare 
+  - Bachelor of Business Administration (Double Major)
   - Suwon, South Korea
 
 ### Etc.
