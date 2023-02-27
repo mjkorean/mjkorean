@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - Redux
 
 ### Skills
+- Web Applications
 - Single Page Applications
 - Responsive Web Design
 - Interactive Web Content
