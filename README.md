@@ -52,5 +52,7 @@ Here are some ideas to get you started:
 
 ### Etc.
 - 7 years' experience of English-spoken countries (Australia, Canada)
-- Canadian Permanent Residency (Immigration, Refugees and Citizenship Canada)
-- Standard First Aid, CPR and AED (St. John Ambulance Canada)
+- Canadian Permanent Residency
+  - Immigration, Refugees and Citizenship Canada
+- Standard First Aid, CPR and AED
+  - St. John Ambulance Canada
