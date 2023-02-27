@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 - Korean: Native
 - English: Professional working proficiency
 
+### Work Exrpirence
+- Assistant Driller
+  - Orbit Garant Drilling, Inc., Canada (2020 - 2022 / 2 years)
+- Assistant Driller
+  - Boart Longyear, Canada (2019 - 2020 / 1 years)
+- Human Resources Generalist
+  - Samsung Display (2014 - 2016 / 2 years)
+
 ### Education
 - Playdata (2023)
   - Certificate, Information Technology
@@ -41,14 +49,6 @@ Here are some ideas to get you started:
 - Kyonggi University (2014)
   - Bachelor of Business Administration - BBA, Business Administration
   - Suwon, South Korea
-
-### Work Exrpirence
-- Assistant Driller
-  - Orbit Garant Drilling, Inc., Canada (2020 - 2022 / 2 years)
-- Assistant Driller
-  - Boart Longyear, Canada (2019 - )
-- Human Resources Generalist
-  - Samsung Display (2014 - 2016 / 2 years)
 
 ### Etc.
 - 7 years' experience of English-spoken countries (Australia, Canada)
