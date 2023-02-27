@@ -35,8 +35,10 @@ Here are some ideas to get you started:
   - Half-year Coding Bootcamp, Seoul, South Korea
 - Fleming College (2019)
   - College Diploma, Resources Drilling Technician
+  - Lindsay, Canada
 - Kyonggi University (2014)
   - Bachelor of Business Administration - BBA, Business Administration
+  - Suwon, South Korea
 
 ### Languages
 - Korean: Native
