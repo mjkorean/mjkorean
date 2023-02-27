@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Skills
-- HTML/CSS
+- HTML
+- CSS
 - JavaScript
-- React.js
-- Redux.js
+- React
+- Redux
 - Single Page Applications
 - Responsive Web Design
 - Interactive Web Content
