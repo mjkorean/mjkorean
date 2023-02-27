@@ -1,6 +1,4 @@
 ### 안녕하세요! 프론트엔드 웹 개발자 전명훈입니다. 😄
-### Hi! I'm Myunghoon (M.J.) Jun, Frontend Web Developer.
-
 <!--
 **mjkorean/mjkorean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
