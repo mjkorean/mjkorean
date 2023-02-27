@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - Communication
 
 ### Education
-- Encore Academy (2023)
+-  (2023)
   - Certificate, Information Technology
 - Fleming College (2019)
   - College Diploma, Resources Drilling Technician
