@@ -43,8 +43,9 @@ Here are some ideas to get you started:
   - Suwon, South Korea
 
 ### Work Exrpirence
-- sdda
-- sad
+- Assistant Driller
+  - Orbit Garant Drilling, Inc. (2020 - 2022 · 2 years)
+- Assistant Driller
 - Human Resources Generalist
   - Samsung Display (2014 - 2016 · 2 years)
 
