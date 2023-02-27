@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 - Interactive Web Content
 - Communication
 
+### Languages
+- Korean: Native
+- English: Professional working proficiency
+
 ### Education
 - Playdata (2023)
   - Certificate, Information Technology
@@ -38,9 +42,11 @@ Here are some ideas to get you started:
   - Bachelor of Business Administration - BBA, Business Administration
   - Suwon, South Korea
 
-### Languages
-- Korean: Native
-- English: Professional working proficiency
+### Work Exrpirence
+- sdda
+- sad
+- Human Resources Generalist
+  - Samsung Display (2014 - 2016 · 2 years)
 
 ### Etc.
 - 7 years' experience of English-spoken countries (Australia, Canada)
