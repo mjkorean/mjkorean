@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 - English: Professional working proficiency
 
 ### Etc.
-- 7 years' of experience of English-spoken countries (Australia, Canada)
+- 7 years' experience of English-spoken countries (Australia, Canada)
 - Canadian Permanent Residency
