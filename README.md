@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Languages
+### Languages, Frameworks and Libraries
 - HTML
 - CSS
 - JavaScript
