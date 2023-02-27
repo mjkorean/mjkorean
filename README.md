@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - JavaScript
 - React
 - Redux
+- Java
 
 ### Skills
 - Web Applications
