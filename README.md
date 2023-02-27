@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ### ✔️ Work Exrpirence
 - Assistant Driller (2020 - 2022 / 2 years)
   - Orbit Garant Drilling, Inc., Canada
-- Assistant Driller (2019 - 2020 / 1 years)
+- Assistant Driller (2019 - 2020 / 1 year)
   - Boart Longyear, Canada
 - Human Resources Generalist (2014 - 2016 / 2 years)
   - Samsung Display, Asan, South Korea
