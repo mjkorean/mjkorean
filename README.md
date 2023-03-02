@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - React
 - Redux
 - Vue
-- Java
 
 ### ✔️ Skills
 - Web Applications
