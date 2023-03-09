@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - CSS
 - Bootstrap
 - JavaScript
-- Vue
+- Vue.js
 
 ### ✔️ Skills
 - Web Applications
