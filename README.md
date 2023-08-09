@@ -38,11 +38,13 @@ Here are some ideas to get you started:
 - Samsung Display, South Korea
 
 ### ✔️ Education
-- Playdata (2023)
+- KOSTA(2023)
   - Certificate, Information Technology
-- Fleming College (2019)
+- Playdata(2023)
+  - Certificate, Information Technology
+- Fleming College(2019)
   - College Diploma, Resources Drilling Technician
-- Kyonggi University (2014)
+- Kyonggi University(2014)
   - Bachelor of Business Administration
 
 ### ✔️ Etc.
