@@ -1,4 +1,4 @@
-### 안녕하세요! 프론트엔드 개발자 전명훈입니다. 🤠
+### 안녕하세요! 전명훈입니다. 🤠
 <!--
 **mjkorean/mjkorean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### ✔️ Languages, Frameworks and Libraries
+- Python
 - HTML
 - CSS
 - Bootstrap
 - JavaScript
-- Vue.js
+- Java
 
 ### ✔️ Skills
 - Web Applications
@@ -32,24 +33,17 @@ Here are some ideas to get you started:
 - English: Professional working proficiency
 
 ### ✔️ Work Exrpirence
-- Assistant Driller (2020 - 2022 / 2 years)
-  - Orbit Garant Drilling, Inc., Canada
-- Assistant Driller (2019 - 2020 / 1 year)
-  - Boart Longyear, Canada
-- Human Resources Generalist (2014 - 2016 / 2 years)
-  - Samsung Display, Asan, South Korea
+- Orbit Garant Drilling, Inc., Canada
+- Boart Longyear, Canada
+- Samsung Display, South Korea
 
 ### ✔️ Education
 - Playdata (2023)
   - Certificate, Information Technology
-  - Half-year Coding Bootcamp, Seoul, South Korea
 - Fleming College (2019)
   - College Diploma, Resources Drilling Technician
-  - Lindsay, Canada
 - Kyonggi University (2014)
   - Bachelor of Business Administration
-  - Bachelor of Social Welfare 
-  - Suwon, South Korea
 
 ### ✔️ Etc.
 - 7 years' experience of English-spoken countries (Australia, Canada)
