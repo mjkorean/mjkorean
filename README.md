@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   - Bachelor of Business Administration
 
 ### ✔️ Etc.
-- 7 years' experience of English-spoken countries (Australia, Canada)
+- 7 years' experience of English-spoken countries
 - Canadian Permanent Residency
   - Immigration, Refugees and Citizenship Canada
 - Standard First Aid, CPR and AED
