@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - Playdata(2023)
   - Certificate, Information Technology
 - Fleming College(2019)
-  - College Diploma, Resources Drilling Technician
+  - School of Environmental and Natural Resource Sciences
 - Kyonggi University(2014)
   - Bachelor of Business Administration
 
