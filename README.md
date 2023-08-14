@@ -39,13 +39,13 @@ Here are some ideas to get you started:
 
 ### ✔️ Education
 - KOSTA(2023)
-  - Certificate, Information Technology
+  - Certificate, Information Technology, South Korea
 - Playdata(2023)
-  - Certificate, Information Technology
+  - Certificate, Information Technology, South Korea
 - Fleming College(2019)
-  - School of Environmental and Natural Resource Sciences
+  - School of Environmental and Natural Resource Sciences, Canada
 - Kyonggi University(2014)
-  - Bachelor of Business Administration
+  - Bachelor of Business Administration, South Korea
 
 ### ✔️ Etc.
 - 7 years' experience of English-spoken countries
