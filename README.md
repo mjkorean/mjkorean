@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - Playdata(2023)
   - Certificate, Information Technology, South Korea
 - Fleming College(2019)
-  - School of Environmental and Natural Resource Sciences, Canada
+  - Natural Resource Sciences, Canada
 - Kyonggi University(2014)
   - Bachelor of Business Administration, South Korea
 
