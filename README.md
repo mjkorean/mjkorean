@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 - Kyonggi University(2014)
   - Bachelor of Business Administration, South Korea
 
-### ✔️ Etc.
+### ✔️ TMI
 - 7 years' experience of English-spoken countries
 - Canadian Permanent Residency
   - Immigration, Refugees and Citizenship Canada
