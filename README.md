@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - Bootstrap
 - JavaScript
 - Java
+- MariaDB
 
 ### ✔️ Skills
 - Web Applications
