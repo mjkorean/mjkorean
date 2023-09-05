@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Java
 - MariaDB
 - HeidiSQL
-- GitHub
+- Git/GitHub
 - Slack
 - Notion
 
