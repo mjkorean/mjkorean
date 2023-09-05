@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - JavaScript
 - Java
 - MariaDB
+- HeidiSQL
 
 ### ✔️ Skills
 - Web Applications
