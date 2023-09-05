@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### ✔️ Languages, Frameworks and Libraries
+### ✔️ Languages, Frameworks, Libraries and Tools
 - Python
 - HTML
 - CSS
