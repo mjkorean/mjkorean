@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - Python
 - HTML
 - CSS
+- jQuery
 - Bootstrap
 - JavaScript
 - Java
@@ -24,7 +25,7 @@ Here are some ideas to get you started:
 - HeidiSQL
 - Git/GitHub
 - Slack
-- Notion
+- Jira
 
 ### ✔️ Skills
 - Web Applications
@@ -45,15 +46,12 @@ Here are some ideas to get you started:
 ### ✔️ Education
 - KOSTA(2023)
   - Certificate, Information Technology, South Korea
-- Playdata(2023)
-  - Certificate, Information Technology, South Korea
 - Fleming College(2019)
   - Natural Resource Sciences, Canada
 - Kyonggi University(2014)
   - Bachelor of Business Administration, South Korea
 
 ### ✔️ TMI
-- 7 years' experience of English-spoken countries
 - Canadian Permanent Residency
   - Immigration, Refugees and Citizenship Canada
 - Standard First Aid, CPR and AED
