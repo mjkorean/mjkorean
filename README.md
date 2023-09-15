@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - Python
 - HTML
 - CSS
-- jQuery
 - Bootstrap
 - JavaScript
+- jQuery
 - Java
 - MariaDB
 - HeidiSQL
