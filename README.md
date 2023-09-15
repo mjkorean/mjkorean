@@ -29,9 +29,6 @@ Here are some ideas to get you started:
 
 ### ✔️ Skills
 - Web Applications
-- Single Page Applications
-- Responsive Web Design
-- Interactive Web Content
 - Communication
 
 ### ✔️ Languages
