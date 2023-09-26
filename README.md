@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - CSS
 - Bootstrap
 - JavaScript
-- jQuery
 - Java
 - Servlet/JSP
 - MariaDB
