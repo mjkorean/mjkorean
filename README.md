@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - KOSTA(2023)
   - Certificate, Information Technology, South Korea
 - Fleming College(2019)
-  - Natural Resource Sciences, Canada
+  - Natural Resource Science, Canada
 - Kyonggi University(2014)
   - Bachelor of Business Administration, South Korea
 
