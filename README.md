@@ -15,17 +15,12 @@ Here are some ideas to get you started:
 -->
 ### ✔️ Languages, Frameworks, Libraries and Tools
 - Python
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
+- HTML  - CSS  - Bootstrap  - JavaScript
 - Java
 - Servlet/JSP
-- MariaDB
-- HeidiSQL
+- MariaDB  - HeidiSQL
 - Git/GitHub
-- Slack
-- Jira
+- Slack  - Discord  - Jira
 
 ### ✔️ Skills
 - Web Applications
