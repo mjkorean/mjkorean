@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - JavaScript
 - Java
 - Servlet/JSP
+- Spring/Boot
 - MariaDB
 - HeidiSQL
 - Git/GitHub
