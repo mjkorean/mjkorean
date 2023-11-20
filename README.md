@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### ✔️ Languages, Frameworks, Libraries and Tools
-- Python
 - HTML
 - CSS
 - Bootstrap
