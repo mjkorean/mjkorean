@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 - MariaDB
 - HeidiSQL
 - Git/GitHub
-- Slack
-- Discord
-- Jira
 
 ### ✔️ Skills
 - Web Applications
