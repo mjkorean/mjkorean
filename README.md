@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 - HTML
 - CSS
 - Bootstrap
-- JavaScript
 - Java
 - Servlet/JSP
 - Spring/Boot
+- Spring Data JPA
+- MyBatis
+- QueryDSL
 - MariaDB
 - HeidiSQL
 - Git/GitHub
